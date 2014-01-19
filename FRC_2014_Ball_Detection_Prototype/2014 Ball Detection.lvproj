@@ -14,19 +14,19 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Support" Type="Folder">
-			<Item Name="Create Annulus from Rectangle.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/FRC/Vision/2014 Ball Detection/Create Annulus from Rectangle.vi"/>
-			<Item Name="Fit Circle to Find Ball.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/FRC/Vision/2014 Ball Detection/Fit Circle to Find Ball.vi"/>
-			<Item Name="Normalize Path.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/FRC/Vision/2014 Ball Detection/Normalize Path.vi"/>
-			<Item Name="Label Particles.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/FRC/Vision/2014 Ball Detection/Label Particles.vi"/>
-			<Item Name="Normalized to Scored.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/FRC/Vision/2014 Ball Detection/Normalized to Scored.vi"/>
-			<Item Name="Predict Search Rectangle from Particle.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/FRC/Vision/2014 Ball Detection/Predict Search Rectangle from Particle.vi"/>
-			<Item Name="Score and Sort Objects.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/FRC/Vision/2014 Ball Detection/Score and Sort Objects.vi"/>
-			<Item Name="Sorted Particle Report.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/FRC/Vision/2014 Ball Detection/Sorted Particle Report.vi"/>
+			<Item Name="Create Annulus from Rectangle.vi" Type="VI" URL="../Create Annulus from Rectangle.vi"/>
+			<Item Name="Fit Circle to Find Ball.vi" Type="VI" URL="../Fit Circle to Find Ball.vi"/>
+			<Item Name="Normalize Path.vi" Type="VI" URL="../Normalize Path.vi"/>
+			<Item Name="Label Particles.vi" Type="VI" URL="../Label Particles.vi"/>
+			<Item Name="Normalized to Scored.vi" Type="VI" URL="../Normalized to Scored.vi"/>
+			<Item Name="Predict Search Rectangle from Particle.vi" Type="VI" URL="../Predict Search Rectangle from Particle.vi"/>
+			<Item Name="Score and Sort Objects.vi" Type="VI" URL="../Score and Sort Objects.vi"/>
+			<Item Name="Sorted Particle Report.vi" Type="VI" URL="../Sorted Particle Report.vi"/>
 		</Item>
-		<Item Name="2014 Ball Detection.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/FRC/Vision/2014 Ball Detection/2014 Ball Detection.vi"/>
-		<Item Name="Process Image for Balls.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/FRC/Vision/2014 Ball Detection/Process Image for Balls.vi"/>
-		<Item Name="Score and Rank Objects.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/FRC/Vision/2014 Ball Detection/Score and Rank Objects.vi"/>
-		<Item Name="Calibration Helper.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/FRC/Vision/2014 Ball Detection/Calibration Helper.vi"/>
+		<Item Name="2014 Ball Detection.vi" Type="VI" URL="../2014 Ball Detection.vi"/>
+		<Item Name="Process Image for Balls.vi" Type="VI" URL="../Process Image for Balls.vi"/>
+		<Item Name="Score and Rank Objects.vi" Type="VI" URL="../Score and Rank Objects.vi"/>
+		<Item Name="Calibration Helper.vi" Type="VI" URL="../Calibration Helper.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
@@ -103,8 +103,8 @@
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Compare Rects.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/FRC/Vision/2014 Ball Detection/Compare Rects.vi"/>
-			<Item Name="Circle Coverage Score.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/FRC/Vision/2014 Ball Detection/Circle Coverage Score.vi"/>
+			<Item Name="Compare Rects.vi" Type="VI" URL="../Compare Rects.vi"/>
+			<Item Name="Circle Coverage Score.vi" Type="VI" URL="../Circle Coverage Score.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
