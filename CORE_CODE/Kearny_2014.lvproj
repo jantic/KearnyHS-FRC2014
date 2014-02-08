@@ -44,7 +44,6 @@
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Port" Type="Int">80</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Timeout" Type="Int">60</Property>
-		<Property Name="target.IOScan.Enabled" Type="Bool">true</Property>
 		<Property Name="target.IOScan.Faults" Type="Str">1.0,0;</Property>
 		<Property Name="target.IOScan.NetVarPeriod" Type="UInt">100</Property>
 		<Property Name="target.IOScan.NetWatchdogEnabled" Type="Bool">false</Property>
@@ -132,6 +131,72 @@ DirectoryIndex index.htm
 		<Item Name="Support Code" Type="Folder">
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 		</Item>
+		<Item Name="Vision System" Type="Folder">
+			<Item Name="2014 Pseudo-Target" Type="Folder">
+				<Item Name="2014 Pseudo-Target Active" Type="Folder">
+					<Item Name="10ft_Center.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/10ft_Center.jpg"/>
+					<Item Name="10ft_Left.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/10ft_Left.jpg"/>
+					<Item Name="10ft_LeftCenter1.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/10ft_LeftCenter1.jpg"/>
+					<Item Name="10ft_LeftCenter2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/10ft_LeftCenter2.jpg"/>
+					<Item Name="18ft_Center1.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/18ft_Center1.jpg"/>
+					<Item Name="18ft_Center2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/18ft_Center2.jpg"/>
+					<Item Name="18ft_Left.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/18ft_Left.jpg"/>
+					<Item Name="18ft_LeftCenter1.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/18ft_LeftCenter1.jpg"/>
+					<Item Name="18ft_LeftCenter2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/18ft_LeftCenter2.jpg"/>
+					<Item Name="2014 Pseudo-Target Active - Shortcut.lnk" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/2014 Pseudo-Target Active - Shortcut.lnk"/>
+					<Item Name="27ft_Left.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/27ft_Left.jpg"/>
+					<Item Name="27ft_LeftCenter1.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/27ft_LeftCenter1.jpg"/>
+					<Item Name="27ft_LeftCenter2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/27ft_LeftCenter2.jpg"/>
+				</Item>
+				<Item Name="2014 Pseudo-Target Off" Type="Folder">
+					<Item Name="10ft_Center_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/10ft_Center_Off.jpg"/>
+					<Item Name="10ft_Left_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/10ft_Left_Off.jpg"/>
+					<Item Name="10ft_LeftCenter1_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/10ft_LeftCenter1_Off.jpg"/>
+					<Item Name="10ft_LeftCenter2_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/10ft_LeftCenter2_Off.jpg"/>
+					<Item Name="18ft_Center1_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/18ft_Center1_Off.jpg"/>
+					<Item Name="18ft_Left_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/18ft_Left_Off.jpg"/>
+					<Item Name="18ft_LeftCenter1_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/18ft_LeftCenter1_Off.jpg"/>
+					<Item Name="18ft_LeftCenter2_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/18ft_LeftCenter2_Off.jpg"/>
+					<Item Name="27ft_Left_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/27ft_Left_Off.jpg"/>
+					<Item Name="27ft_LeftCenter1_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/27ft_LeftCenter1_Off.jpg"/>
+					<Item Name="27ft_LeftCenter2_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/27ft_LeftCenter2_Off.jpg"/>
+				</Item>
+				<Item Name="2014 Vision Targets.docx" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Vision Targets.docx"/>
+			</Item>
+			<Item Name="2014 Vision Target" Type="Folder">
+				<Item Name="Center.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Center.jpg"/>
+				<Item Name="Center18ft_On2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Center18ft_On2.jpg"/>
+				<Item Name="Center_18ft_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Center_18ft_Off.jpg"/>
+				<Item Name="Center_18ft_On.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Center_18ft_On.jpg"/>
+				<Item Name="Center_27ft_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Center_27ft_Off.jpg"/>
+				<Item Name="Center_27ft_On.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Center_27ft_On.jpg"/>
+				<Item Name="Center_27ft_On2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Center_27ft_On2.jpg"/>
+				<Item Name="GamePieces1.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/GamePieces1.jpg"/>
+				<Item Name="GamePieces2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/GamePieces2.jpg"/>
+				<Item Name="Right_18ft_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Right_18ft_Off.jpg"/>
+				<Item Name="Right_18ft_Off2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Right_18ft_Off2.jpg"/>
+				<Item Name="Right_18ft_On.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Right_18ft_On.jpg"/>
+				<Item Name="Right_27ft_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Right_27ft_Off.jpg"/>
+				<Item Name="Right_27ft_On.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Right_27ft_On.jpg"/>
+			</Item>
+			<Item Name="2014 Target Detection.aliases" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Target Detection.aliases"/>
+			<Item Name="2014 Target Detection.lvlps" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Target Detection.lvlps"/>
+			<Item Name="2014 Target Detection.lvproj" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Target Detection.lvproj"/>
+			<Item Name="2014 Target Detection.vi" Type="VI" URL="../../frc 2014 Vision Prototype/2014 Target Detection.vi"/>
+			<Item Name="Aspect Ratio Score.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Aspect Ratio Score.vi"/>
+			<Item Name="Calibration Helper.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Calibration Helper.vi"/>
+			<Item Name="Compute DistanceToTarget.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Compute DistanceToTarget.vi"/>
+			<Item Name="Compute Target Distances.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Compute Target Distances.vi"/>
+			<Item Name="Label Targets.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Label Targets.vi"/>
+			<Item Name="Normalize Path.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Normalize Path.vi"/>
+			<Item Name="Process Image for Target.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Process Image for Target.vi"/>
+			<Item Name="Rank HV combos.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Rank HV combos.vi"/>
+			<Item Name="Rectangularity Score.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Rectangularity Score.vi"/>
+			<Item Name="Score and Rank Target Objects.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Score and Rank Target Objects.vi"/>
+			<Item Name="Separate Particles.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Separate Particles.vi"/>
+			<Item Name="Sorted Particle Report.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Sorted Particle Report.vi"/>
+			<Item Name="TargetType.ctl" Type="VI" URL="../../frc 2014 Vision Prototype/TargetType.ctl"/>
+		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -140,7 +205,6 @@ DirectoryIndex index.htm
 				<Item Name="IMAQ Image.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/IMAQ Image.ctl"/>
 				<Item Name="WPI_JoystickDeviceEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Joystick/WPI_JoystickDeviceEnum.ctl"/>
 				<Item Name="FPGA_SystemAsynch VI Registration.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/System/FPGA_SystemAsynch VI Registration.vi"/>
-				<Item Name="WPI_CameraFrameRate.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraFrameRate.ctl"/>
 				<Item Name="WPI_CameraImageSize.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraImageSize.ctl"/>
 				<Item Name="WPI_CameraWhite Balance Values.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraWhite Balance Values.ctl"/>
 				<Item Name="WPI_CameraExposure Values.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraExposure Values.ctl"/>
@@ -266,7 +330,6 @@ DirectoryIndex index.htm
 				<Item Name="WPI_MotorControlRefNum Compare.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/MotorControl/WPI_MotorControlRefNum Compare.vi"/>
 				<Item Name="WPI_JoystickDevRef.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Joystick/WPI_JoystickDevRef.ctl"/>
 				<Item Name="WPI_JoystickGetSetRefNum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Joystick/WPI_JoystickGetSetRefNum.vi"/>
-				<Item Name="WPI_CameraOpen.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraOpen.vi"/>
 				<Item Name="WPI_CameraRegistryActions.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraRegistryActions.ctl"/>
 				<Item Name="WPI_Camera Registry.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_Camera Registry.vi"/>
 				<Item Name="WPI_CameraSettings Control.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSettings Control.ctl"/>
@@ -300,16 +363,6 @@ DirectoryIndex index.htm
 				<Item Name="WPI_CameraSet Image Size.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Image Size.vi"/>
 				<Item Name="WPI_CameraSet Enum Appearance Property.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Enum Appearance Property.vi"/>
 				<Item Name="WPI_CameraSet Image Appearance Property.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Image Appearance Property.vi"/>
-				<Item Name="WPI_CameraSet Frame Rate.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Frame Rate.vi"/>
-				<Item Name="WPI_CameraSet White Balance.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet White Balance.vi"/>
-				<Item Name="WPI_CameraSet Enum Sensor Property.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Enum Sensor Property.vi"/>
-				<Item Name="WPI_CameraSet Exposure.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Exposure.vi"/>
-				<Item Name="WPI_CameraSet Image Compression.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Image Compression.vi"/>
-				<Item Name="WPI_CameraSet Numeric Appearance Property.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Numeric Appearance Property.vi"/>
-				<Item Name="WPI_CameraSet Brightness.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Brightness.vi"/>
-				<Item Name="WPI_CameraSet Numeric Sensor Property.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Numeric Sensor Property.vi"/>
-				<Item Name="WPI_CameraRefNum Registry Set.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraRefNum Registry Set.vi"/>
-				<Item Name="WPI_CameraGetSetRefNum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraGetSetRefNum.vi"/>
 				<Item Name="WPI_JoystickRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Joystick/WPI_JoystickRefNum Registry Get.vi"/>
 				<Item Name="WPI_JoystickGet.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Joystick/WPI_JoystickGet.vi"/>
 				<Item Name="WPI_JoystickButtonState.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Joystick/WPI_JoystickButtonState.ctl"/>
@@ -420,8 +473,6 @@ DirectoryIndex index.htm
 				<Item Name="WPI_CameraStart.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraStart.vi"/>
 				<Item Name="WPI_CameraStop.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraStop.vi"/>
 				<Item Name="WPI_CameraUpdate Camera Status.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraUpdate Camera Status.vi"/>
-				<Item Name="WPI_CameraRead MJPGString.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraRead MJPGString.vi"/>
-				<Item Name="WPI_CameraAcquire MJPG Loop.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraAcquire MJPG Loop.vi"/>
 				<Item Name="NetComm_UsageReport_ResourceType.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_UsageReport_ResourceType.ctl"/>
 				<Item Name="NetComm_UsageReport_report.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_UsageReport_report.vi"/>
 				<Item Name="WPI_CameraERRNoLoop.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraERRNoLoop.vi"/>
@@ -622,6 +673,63 @@ DirectoryIndex index.htm
 				<Item Name="WPI_RobotDriveOpen2Motor.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen2Motor.vi"/>
 				<Item Name="WPI_DigitalInputGetSetRefNum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalInput/WPI_DigitalInputGetSetRefNum.vi"/>
 				<Item Name="WPI_DigitalInputRefNum Registry Set.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalInput/WPI_DigitalInputRefNum Registry Set.vi"/>
+				<Item Name="IMAQ ReadFile" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ ReadFile"/>
+				<Item Name="IMAQ Clear Overlay" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Clear Overlay"/>
+				<Item Name="NI_Vision_Development_Module.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/NI_Vision_Development_Module.lvlib"/>
+				<Item Name="WPI_CameraRead MJPG for Dashboard.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraRead MJPG for Dashboard.vi"/>
+				<Item Name="WPI_CameraSettings Read MJPG.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSettings Read MJPG.ctl"/>
+				<Item Name="WPI_DashboardFPS Calculator.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardFPS Calculator.vi"/>
+				<Item Name="WPI_DashboardLogging Global.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardLogging Global.vi"/>
+				<Item Name="WPI_DashboardPlay Operation.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardPlay Operation.ctl"/>
+				<Item Name="Vector4.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/Kinect/Vector4.ctl"/>
+				<Item Name="SkeletonTrackState.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/Kinect/SkeletonTrackState.ctl"/>
+				<Item Name="IMAQ AVI2 Close" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Close"/>
+				<Item Name="IMAQ AVI2 Refnum.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Refnum.ctl"/>
+				<Item Name="WPI_DashboardVIdeo Path for Read.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardVIdeo Path for Read.vi"/>
+				<Item Name="IMAQ AVI2 Open" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Open"/>
+				<Item Name="IMAQ AVI2 Codec Path.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Codec Path.ctl"/>
+				<Item Name="IMAQ AVI2 Read Frame" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Read Frame"/>
+				<Item Name="WPI_CameraRead MJPG.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraRead MJPG.vi"/>
+				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
+				<Item Name="DS_Mode_Simulation_Global.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Simulation/DS_Mode_Simulation_Global.vi"/>
+				<Item Name="IMAQ ArrayToColorImage" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ ArrayToColorImage"/>
+				<Item Name="Color (U64)" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Color (U64)"/>
+				<Item Name="Unflatten Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pixmap.llb/Unflatten Pixmap.vi"/>
+				<Item Name="WPI_DashboardSave DB Images.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardSave DB Images.vi"/>
+				<Item Name="Dflt Data Dir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Dflt Data Dir.vi"/>
+				<Item Name="IMAQ Write File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write File 2"/>
+				<Item Name="IMAQ Write BMP File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write BMP File 2"/>
+				<Item Name="IMAQ Write Image And Vision Info File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write Image And Vision Info File 2"/>
+				<Item Name="IMAQ Write JPEG File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write JPEG File 2"/>
+				<Item Name="IMAQ Write JPEG2000 File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write JPEG2000 File 2"/>
+				<Item Name="IMAQ Write PNG File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write PNG File 2"/>
+				<Item Name="IMAQ Write TIFF File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write TIFF File 2"/>
+				<Item Name="WPI_DashboardCreate AVI.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardCreate AVI.vi"/>
+				<Item Name="WPI_DashboardVIdeo Path.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardVIdeo Path.vi"/>
+				<Item Name="IMAQ AVI2 Get Codec Names" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Get Codec Names"/>
+				<Item Name="IMAQ AVI2 Create" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Create"/>
+				<Item Name="IMAQ AVI2 Write Frame" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Write Frame"/>
+				<Item Name="Particle Parameters" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Particle Parameters"/>
+				<Item Name="IMAQ GetImageSize" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ GetImageSize"/>
+				<Item Name="IMAQ Overlay Rectangle" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Overlay Rectangle"/>
+				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
+				<Item Name="IMAQ Overlay Text" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Overlay Text"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="ROI Descriptor" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/ROI Descriptor"/>
+				<Item Name="WPI_CameraRead MJPGString.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraRead MJPGString.vi"/>
+				<Item Name="WPI_CameraAcquire MJPG Loop.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraAcquire MJPG Loop.vi"/>
+				<Item Name="WPI_CameraSet Numeric Sensor Property.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Numeric Sensor Property.vi"/>
+				<Item Name="WPI_CameraSet Brightness.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Brightness.vi"/>
+				<Item Name="WPI_CameraSet Numeric Appearance Property.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Numeric Appearance Property.vi"/>
+				<Item Name="WPI_CameraSet Image Compression.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Image Compression.vi"/>
+				<Item Name="WPI_CameraSet Enum Sensor Property.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Enum Sensor Property.vi"/>
+				<Item Name="WPI_CameraSet Exposure.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Exposure.vi"/>
+				<Item Name="WPI_CameraSet White Balance.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet White Balance.vi"/>
+				<Item Name="WPI_CameraFrameRate.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraFrameRate.ctl"/>
+				<Item Name="WPI_CameraSet Frame Rate.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Frame Rate.vi"/>
+				<Item Name="WPI_CameraGetSetRefNum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraGetSetRefNum.vi"/>
+				<Item Name="WPI_CameraRefNum Registry Set.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraRefNum Registry Set.vi"/>
+				<Item Name="WPI_CameraOpen.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraOpen.vi"/>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -633,6 +741,10 @@ DirectoryIndex index.htm
 			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
 			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
 			<Item Name="niLvFpgaAdjustHostInterfaceError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaAdjustHostInterfaceError.vi"/>
+			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -644,8 +756,8 @@ DirectoryIndex index.htm
 				<Property Name="Bld_buildSpecName" Type="Str">FRC Robot Boot-up Deployment</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/C/Users/KEELANS COMPUTER/Documents/KearnyHS-FRC2014.git/trunk/CORE_CODE/Builds</Property>
-				<Property Name="Bld_localDestDirType" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../Builds</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{818764A5-CF2F-459D-99A2-FC861F69E9D6}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/c/ni-rt/startup</Property>
@@ -658,7 +770,7 @@ DirectoryIndex index.htm
 				<Property Name="Destination[1].path" Type="Path">/c/ni-rt/startup/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{731BD68C-E215-4DF6-AEFD-CC6489E4E327}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{DC93F466-6FF8-4B43-A0A5-06E448E7A4F2}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/RT CompactRIO Target/Robot Main.vi</Property>
@@ -667,7 +779,6 @@ DirectoryIndex index.htm
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">NI</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">My Real-Time Application</Property>
-				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">My Real-Time Application</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2008 NI</Property>
 				<Property Name="TgtF_productName" Type="Str">My Real-Time Application</Property>
