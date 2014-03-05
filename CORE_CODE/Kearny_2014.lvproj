@@ -133,72 +133,6 @@ DirectoryIndex index.htm
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 			<Item Name="Dir_Pad_To_Value.vi" Type="VI" URL="../../FRC_2012_CODE/hammerheads_2012_Vegas_Regional_to_AKov_2013_1/hammerheads_2012_Vegas_Regional_to_AKov_2013/Dir_Pad_To_Value.vi"/>
 		</Item>
-		<Item Name="Vision System" Type="Folder">
-			<Item Name="2014 Pseudo-Target" Type="Folder">
-				<Item Name="2014 Pseudo-Target Active" Type="Folder">
-					<Item Name="10ft_Center.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/10ft_Center.jpg"/>
-					<Item Name="10ft_Left.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/10ft_Left.jpg"/>
-					<Item Name="10ft_LeftCenter1.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/10ft_LeftCenter1.jpg"/>
-					<Item Name="10ft_LeftCenter2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/10ft_LeftCenter2.jpg"/>
-					<Item Name="18ft_Center1.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/18ft_Center1.jpg"/>
-					<Item Name="18ft_Center2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/18ft_Center2.jpg"/>
-					<Item Name="18ft_Left.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/18ft_Left.jpg"/>
-					<Item Name="18ft_LeftCenter1.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/18ft_LeftCenter1.jpg"/>
-					<Item Name="18ft_LeftCenter2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/18ft_LeftCenter2.jpg"/>
-					<Item Name="2014 Pseudo-Target Active - Shortcut.lnk" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/2014 Pseudo-Target Active - Shortcut.lnk"/>
-					<Item Name="27ft_Left.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/27ft_Left.jpg"/>
-					<Item Name="27ft_LeftCenter1.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/27ft_LeftCenter1.jpg"/>
-					<Item Name="27ft_LeftCenter2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Active/27ft_LeftCenter2.jpg"/>
-				</Item>
-				<Item Name="2014 Pseudo-Target Off" Type="Folder">
-					<Item Name="10ft_Center_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/10ft_Center_Off.jpg"/>
-					<Item Name="10ft_Left_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/10ft_Left_Off.jpg"/>
-					<Item Name="10ft_LeftCenter1_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/10ft_LeftCenter1_Off.jpg"/>
-					<Item Name="10ft_LeftCenter2_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/10ft_LeftCenter2_Off.jpg"/>
-					<Item Name="18ft_Center1_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/18ft_Center1_Off.jpg"/>
-					<Item Name="18ft_Left_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/18ft_Left_Off.jpg"/>
-					<Item Name="18ft_LeftCenter1_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/18ft_LeftCenter1_Off.jpg"/>
-					<Item Name="18ft_LeftCenter2_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/18ft_LeftCenter2_Off.jpg"/>
-					<Item Name="27ft_Left_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/27ft_Left_Off.jpg"/>
-					<Item Name="27ft_LeftCenter1_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/27ft_LeftCenter1_Off.jpg"/>
-					<Item Name="27ft_LeftCenter2_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Pseudo-Target Off/27ft_LeftCenter2_Off.jpg"/>
-				</Item>
-				<Item Name="2014 Vision Targets.docx" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Pseudo-Target/2014 Vision Targets.docx"/>
-			</Item>
-			<Item Name="2014 Vision Target" Type="Folder">
-				<Item Name="Center.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Center.jpg"/>
-				<Item Name="Center18ft_On2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Center18ft_On2.jpg"/>
-				<Item Name="Center_18ft_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Center_18ft_Off.jpg"/>
-				<Item Name="Center_18ft_On.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Center_18ft_On.jpg"/>
-				<Item Name="Center_27ft_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Center_27ft_Off.jpg"/>
-				<Item Name="Center_27ft_On.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Center_27ft_On.jpg"/>
-				<Item Name="Center_27ft_On2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Center_27ft_On2.jpg"/>
-				<Item Name="GamePieces1.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/GamePieces1.jpg"/>
-				<Item Name="GamePieces2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/GamePieces2.jpg"/>
-				<Item Name="Right_18ft_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Right_18ft_Off.jpg"/>
-				<Item Name="Right_18ft_Off2.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Right_18ft_Off2.jpg"/>
-				<Item Name="Right_18ft_On.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Right_18ft_On.jpg"/>
-				<Item Name="Right_27ft_Off.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Right_27ft_Off.jpg"/>
-				<Item Name="Right_27ft_On.jpg" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Vision Target/Right_27ft_On.jpg"/>
-			</Item>
-			<Item Name="2014 Target Detection.aliases" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Target Detection.aliases"/>
-			<Item Name="2014 Target Detection.lvlps" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Target Detection.lvlps"/>
-			<Item Name="2014 Target Detection.lvproj" Type="Document" URL="../../frc 2014 Vision Prototype/2014 Target Detection.lvproj"/>
-			<Item Name="2014 Target Detection.vi" Type="VI" URL="../../frc 2014 Vision Prototype/2014 Target Detection.vi"/>
-			<Item Name="Aspect Ratio Score.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Aspect Ratio Score.vi"/>
-			<Item Name="Calibration Helper.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Calibration Helper.vi"/>
-			<Item Name="Compute DistanceToTarget.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Compute DistanceToTarget.vi"/>
-			<Item Name="Compute Target Distances.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Compute Target Distances.vi"/>
-			<Item Name="Label Targets.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Label Targets.vi"/>
-			<Item Name="Normalize Path.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Normalize Path.vi"/>
-			<Item Name="Process Image for Target.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Process Image for Target.vi"/>
-			<Item Name="Rank HV combos.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Rank HV combos.vi"/>
-			<Item Name="Rectangularity Score.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Rectangularity Score.vi"/>
-			<Item Name="Score and Rank Target Objects.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Score and Rank Target Objects.vi"/>
-			<Item Name="Separate Particles.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Separate Particles.vi"/>
-			<Item Name="Sorted Particle Report.vi" Type="VI" URL="../../frc 2014 Vision Prototype/Sorted Particle Report.vi"/>
-			<Item Name="TargetType.ctl" Type="VI" URL="../../frc 2014 Vision Prototype/TargetType.ctl"/>
-		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -668,49 +602,6 @@ DirectoryIndex index.htm
 				<Item Name="WPI_RobotDriveOpen2Motor.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen2Motor.vi"/>
 				<Item Name="WPI_DigitalInputGetSetRefNum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalInput/WPI_DigitalInputGetSetRefNum.vi"/>
 				<Item Name="WPI_DigitalInputRefNum Registry Set.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalInput/WPI_DigitalInputRefNum Registry Set.vi"/>
-				<Item Name="IMAQ ReadFile" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ ReadFile"/>
-				<Item Name="IMAQ Clear Overlay" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Clear Overlay"/>
-				<Item Name="NI_Vision_Development_Module.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/NI_Vision_Development_Module.lvlib"/>
-				<Item Name="WPI_CameraRead MJPG for Dashboard.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraRead MJPG for Dashboard.vi"/>
-				<Item Name="WPI_CameraSettings Read MJPG.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSettings Read MJPG.ctl"/>
-				<Item Name="WPI_DashboardFPS Calculator.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardFPS Calculator.vi"/>
-				<Item Name="WPI_DashboardLogging Global.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardLogging Global.vi"/>
-				<Item Name="WPI_DashboardPlay Operation.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardPlay Operation.ctl"/>
-				<Item Name="Vector4.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/Kinect/Vector4.ctl"/>
-				<Item Name="SkeletonTrackState.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/Kinect/SkeletonTrackState.ctl"/>
-				<Item Name="IMAQ AVI2 Close" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Close"/>
-				<Item Name="IMAQ AVI2 Refnum.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Refnum.ctl"/>
-				<Item Name="WPI_DashboardVIdeo Path for Read.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardVIdeo Path for Read.vi"/>
-				<Item Name="IMAQ AVI2 Open" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Open"/>
-				<Item Name="IMAQ AVI2 Codec Path.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Codec Path.ctl"/>
-				<Item Name="IMAQ AVI2 Read Frame" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Read Frame"/>
-				<Item Name="WPI_CameraRead MJPG.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraRead MJPG.vi"/>
-				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
-				<Item Name="DS_Mode_Simulation_Global.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Simulation/DS_Mode_Simulation_Global.vi"/>
-				<Item Name="IMAQ ArrayToColorImage" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ ArrayToColorImage"/>
-				<Item Name="Color (U64)" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Color (U64)"/>
-				<Item Name="Unflatten Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pixmap.llb/Unflatten Pixmap.vi"/>
-				<Item Name="WPI_DashboardSave DB Images.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardSave DB Images.vi"/>
-				<Item Name="Dflt Data Dir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Dflt Data Dir.vi"/>
-				<Item Name="IMAQ Write File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write File 2"/>
-				<Item Name="IMAQ Write BMP File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write BMP File 2"/>
-				<Item Name="IMAQ Write Image And Vision Info File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write Image And Vision Info File 2"/>
-				<Item Name="IMAQ Write JPEG File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write JPEG File 2"/>
-				<Item Name="IMAQ Write JPEG2000 File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write JPEG2000 File 2"/>
-				<Item Name="IMAQ Write PNG File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write PNG File 2"/>
-				<Item Name="IMAQ Write TIFF File 2" Type="VI" URL="/&lt;vilib&gt;/vision/Files.llb/IMAQ Write TIFF File 2"/>
-				<Item Name="WPI_DashboardCreate AVI.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardCreate AVI.vi"/>
-				<Item Name="WPI_DashboardVIdeo Path.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Dashboard/WPI_DashboardVIdeo Path.vi"/>
-				<Item Name="IMAQ AVI2 Get Codec Names" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Get Codec Names"/>
-				<Item Name="IMAQ AVI2 Create" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Create"/>
-				<Item Name="IMAQ AVI2 Write Frame" Type="VI" URL="/&lt;vilib&gt;/vision/Avi.llb/IMAQ AVI2 Write Frame"/>
-				<Item Name="Particle Parameters" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Particle Parameters"/>
-				<Item Name="IMAQ GetImageSize" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ GetImageSize"/>
-				<Item Name="IMAQ Overlay Rectangle" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Overlay Rectangle"/>
-				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
-				<Item Name="IMAQ Overlay Text" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Overlay Text"/>
-				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
-				<Item Name="ROI Descriptor" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/ROI Descriptor"/>
 				<Item Name="WPI_CameraRead MJPGString.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraRead MJPGString.vi"/>
 				<Item Name="WPI_CameraAcquire MJPG Loop.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraAcquire MJPG Loop.vi"/>
 				<Item Name="WPI_CameraSet Numeric Sensor Property.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSet Numeric Sensor Property.vi"/>
@@ -741,10 +632,6 @@ DirectoryIndex index.htm
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
 			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
 			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
