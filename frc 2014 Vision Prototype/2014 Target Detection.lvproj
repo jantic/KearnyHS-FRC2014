@@ -99,7 +99,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="Robot Global Data.vi" Type="VI" URL="../../CORE_CODE/Robot Global Data.vi"/>
+			<Item Name="Robot Global Data.vi" Type="VI" URL="../../Autonomous_Test_Skeleton/Robot Global Data.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
